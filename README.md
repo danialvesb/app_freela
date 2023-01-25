@@ -1,6 +1,6 @@
 # app_freela
 
-A new Flutter project.
+Projeto em andamento, objetivo é se tornar uma pequena plataforma de gerenciamento de serviços para freelancers.
 
 ## Getting Started
 
